@@ -1,0 +1,30 @@
+{
+  "name": "@velir-fe/browser-sync-proxy",
+  "version": "0.1.8",
+  "description": "Proxy example + injecting custom css file",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "proxy": "./index.js"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "access": "public"
+  },
+  "sitesConfig": {
+    "default": {
+      "src": "frontend",
+      "build": "build",
+      "proxy": "https://www.velir.com/",
+      "route": "/assets/VelirSite-build/"
+    }
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "browser-sync": "^2.11.2"
+  }
+}

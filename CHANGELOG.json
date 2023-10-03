@@ -1,0 +1,65 @@
+{
+  "name": "@velir-fe/browser-sync-proxy",
+  "entries": [
+    {
+      "date": "Sun, 18 Jun 2023 18:01:34 GMT",
+      "tag": "@velir-fe/browser-sync-proxy_v0.1.4",
+      "version": "0.1.4",
+      "comments": {
+        "patch": [
+          {
+            "author": "velir.fe@gmail.com",
+            "package": "@velir-fe/browser-sync-proxy",
+            "commit": "6ebbf3fb80ffd98a76bc944d7f3f9e60ec07b219",
+            "comment": "update"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Wed, 17 May 2023 17:14:16 GMT",
+      "tag": "@velir-fe/browser-sync-proxy_v0.1.3",
+      "version": "0.1.3",
+      "comments": {
+        "patch": [
+          {
+            "author": "velir.fe@gmail.com",
+            "package": "@velir-fe/browser-sync-proxy",
+            "commit": "336a0367d3358a14eea5eb35ec27c8313d7c18ca",
+            "comment": "changes"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 15 May 2023 00:46:46 GMT",
+      "tag": "@velir-fe/browser-sync-proxy_v0.1.1",
+      "version": "0.1.1",
+      "comments": {
+        "patch": [
+          {
+            "author": "velir.fe@gmail.com",
+            "package": "@velir-fe/browser-sync-proxy",
+            "commit": "65085eebb1e63560c466099e3d4aca8bef9f1e9b",
+            "comment": "updating packages"
+          }
+        ]
+      }
+    },
+    {
+      "date": "Mon, 15 May 2023 00:19:50 GMT",
+      "tag": "@velir-fe/browser-sync-proxy_v0.1.0",
+      "version": "0.1.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "jeff.preussner@velir.com",
+            "package": "@velir-fe/browser-sync-proxy",
+            "commit": "399d715d34a30bc6eb38e130c0f9e47365233782",
+            "comment": "scaffold package updates"
+          }
+        ]
+      }
+    }
+  ]
+}
