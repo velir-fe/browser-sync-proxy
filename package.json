@@ -1,6 +1,6 @@
 {
   "name": "@velir-fe/browser-sync-proxy",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Proxy example + injecting custom css file",
   "main": "index.js",
   "type": "module",
