@@ -7,6 +7,7 @@
   "bin": {
     "proxy": "./index.js"
   },
+  "repository": "https://github.com/velir-fe/browser-sync-proxy",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com",
     "access": "public"
